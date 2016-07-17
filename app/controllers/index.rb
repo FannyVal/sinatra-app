@@ -2,6 +2,6 @@ get '/' do
   erb :index
 end
 
-get '/deuxieme.erb' do
+get '/deuxieme' do
   erb :deuxieme
 end
